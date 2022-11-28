@@ -1,0 +1,47 @@
+/* Font Size */
+$font-size: .9375rem;
+$font-size--sm: .9375rem;
+
+/* Font Family */
+$font-family-default: Inter, sans-serif;
+
+/* Colors */
+$color-background: #f9fafb;
+
+$color-title: black;
+
+$color-description: #525b56;
+
+$color-primary: #0585FF;
+$color-primary--hover: #006BFC;
+
+$color-secondary: #FEC707;
+$color-secondary--hover: #0057CE;
+
+/* Border Radius */
+$border-radius: 1rem;
+
+/* Gutters */
+$button-gutters-x: 2rem;
+$button-gutters-y: .75rem;
+$button-gutters-x--sm: .75rem;
+$button-gutters-y--sm: .175rem;
+
+$input-gutters-x: 1rem;
+$input-gutters-y: .5rem;
+$input-gutters-x--sm: .75rem;
+$input-gutters-y--sm: .25rem;
+$input-gutters-x--xs: .5rem;
+$input-gutters-y--xs: .125rem;
+
+/* Transition */
+$transition: all .25s ease-in-out;
+
+/* Medias width */
+$media-width-2xs: 480px;
+$media-width-xs: 576px;
+$media-width-sm: 640px;
+$media-width-md: 768px;
+$media-width-lg: 1024px;
+$media-width-xl: 1280px;
+$media-width-2xl: 1536px;

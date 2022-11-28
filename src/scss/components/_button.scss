@@ -1,0 +1,24 @@
+.button {
+    padding: $button-gutters-y $button-gutters-x;
+    border-radius: $border-radius;
+    font-size: $font-size;
+    transition: $transition;
+    cursor: pointer;
+    background-color: #0000000d;
+    color: black;
+    text-decoration: none;
+
+    &--flex {
+        display: flex;
+        justify-content: center;
+    }
+
+    &:hover {
+        background-color: #0000001a;
+    }
+
+    & svg {
+        margin-right: 5px;
+        font-size: 21px;
+    }
+}

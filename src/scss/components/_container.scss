@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin: auto;
+
+    &--sm {
+        max-width: $media-width-sm;
+    }
+
+    &--md {
+        max-width: $media-width-md;
+    }
+
+    &--lg {
+        max-width: $media-width-lg;
+    }
+}

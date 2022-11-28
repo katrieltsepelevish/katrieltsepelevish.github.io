@@ -1,0 +1,25 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700,800,900');
+
+/* Variables */
+@import 'abstracts/variables';
+
+/* Components */
+@import 'components/container';
+@import 'components/button';
+@import 'components/link';
+@import 'components/devider';
+
+/* sections */
+@import 'sections/info';
+@import 'sections/projects';
+
+/* pages */
+
+/* Base */
+@import 'base/body';
+@import 'base/typography';
+
+/* Layout */
+@import 'layout/header';
+@import 'layout/footer';

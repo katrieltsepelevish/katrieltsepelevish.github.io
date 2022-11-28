@@ -1,0 +1,9 @@
+:root {
+    --font-size-default: .75rem;
+}
+
+body {
+    font-family: $font-family-default;
+
+    font-size: var(--font-size-default);
+}
