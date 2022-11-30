@@ -4,7 +4,7 @@ import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
 const Information = () => (
 <section className='info'>
     <h1 className='info__title'>Katriel Tsepelevish</h1>
-    <h2 className='info__subtitle'>Full-stack Engineer at <b>Scopio Labs</b></h2>
+    <h2 className='info__subtitle'>Full-stack Engineer at <a href="https://scopiolabs.com/">Scopio Labs</a></h2>
     <p className='info__description'>A passionate self-taught Full-stack developer from Israel. Focused on building interactive web applications and backend services.<br /><br />Here are a few technologies I've been working with recently:</p>
     <ul className='info__bullets'>
         <li className='info__bullet'>HTML</li>
