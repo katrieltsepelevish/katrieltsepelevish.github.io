@@ -23,4 +23,4 @@ const Information = () => (
 </section>
 );
 
-export default Information;
+export default React.memo(Information);

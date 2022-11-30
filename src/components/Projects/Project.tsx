@@ -21,4 +21,4 @@ const Project: React.FC<ProjectProps> = ({url, name, description, topics}) => (
     </div> 
 );
 
-export default Project;
+export default React.memo(Project);
